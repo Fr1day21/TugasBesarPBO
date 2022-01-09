@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author My Windows
+ * @author My Rhesna
  */
 public class guihitungluas extends javax.swing.JFrame {
     Hitungluas luas = new Hitungluas();
