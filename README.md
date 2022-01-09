@@ -1,7 +1,7 @@
 # TugasBesarPBO
 
 Download File 
-  *HitungBMI.jar
-  *Hitungluas.jar
+HitungBMI.jar
+HitungLuas.jar
 
-kemudian jalan seperti biasa
+Kemudian jalan seperti biasa
