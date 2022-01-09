@@ -1,4 +1,3 @@
-
 public class HitungBMI {
     private double tinggi, berat,ttl;
     private String inf;
